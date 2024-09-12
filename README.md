@@ -1,6 +1,6 @@
 # Bitcoin Price Analysis Before the 2024 Halving
 
-![@Elviana](https://img.shields.io/badge/Bitcoin-Data%20Analysis-blue)
+![Bitcoin](https://img.shields.io/badge/@Elviana-Data%20Analysis-blue)
 
 This project analyses Bitcoin's price movements leading up to the anticipated 2024 halving event. It encompasses various steps, including data collection, preprocessing, exploratory data analysis (EDA), model selection, training, evaluation, predictive analysis, fine-tuning, monitoring and updating.
 
